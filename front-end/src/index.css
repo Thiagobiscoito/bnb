@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+  --color-prymary-400: #FF385C; 
+}
