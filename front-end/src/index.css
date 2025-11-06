@@ -2,7 +2,13 @@
 
 @theme {
   --color-prymary-400: #FF385C;
+<<<<<<< HEAD
   --font-hashbnb: 
   Airbnb Cereal VF, Circular, -apple-system, BlinkMacSystemFont, Roboto,
   Helvetica Neue, sans-serif
+=======
+  --font-hashbnb:
+  Airbnb Cereal VF, Circular, -apple-system, BlinkMacSystemFont, Roboto,
+    Helvetica Neue, sans-serif;
+>>>>>>> 40be4d22b7fd455948e373f644dc6a4b613c8ab3
 }
